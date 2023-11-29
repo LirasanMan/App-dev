@@ -6,7 +6,7 @@ My first repository
 ### Mac Neal A. Lirasan
 ### BT-3102
 
-> Here are my ordered list of favorite series/movies of all time
+> **Here are my ordered list of favorite series/movies of all time**
 > 
 1. Loki S1 & S2
 2. Marvel Cinematic Universe (MCU)
