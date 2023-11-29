@@ -19,7 +19,7 @@ My first repository
 - Fullmetal Alchemist Brotherhood
 
 > A quick quote
-**The Mystery of life**
+>>**The Mystery of life**
   *The mystery of life isn't a problem to solve,
   but a reality to experience
   A process that cannot be understood by stopping it.
