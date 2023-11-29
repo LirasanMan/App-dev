@@ -21,8 +21,7 @@ My first repository
 > A quick quote
 **The Mystery of life**
 >>*The mystery of life isn't a problem to solve,    
-   but a reality to experience.
-### 
+   but a reality to experience. 
    A process that cannot be understood by stopping it.   
    We must move with the flow of the process.  
    We must join it    
