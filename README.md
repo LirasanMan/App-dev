@@ -26,4 +26,4 @@ My first repository
    We must move with the flow of the process.
    We must join it
    We must flow with it.*
->>   ** -Jamis Fremen (DUNE)**
+>>   ~~ -Jamis Fremen (DUNE)~~
